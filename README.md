@@ -6,6 +6,7 @@ Marketing site for [FlightGlobe](https://github.com/bohdandanylov/flightglobe) �
 
 - `index.html` — landing
 - `about.html` — about the app
+- `support.html` — support
 - `terms.html` — Terms of Service
 - `privacy.html` — Privacy Policy
 
